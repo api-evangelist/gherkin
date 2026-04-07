@@ -1,8 +1,6 @@
 aid: gherkin
 name: Gherkin
-description: Gherkin is a technology or concept used in computing and information
-  technology to address specific technical challenges. It provides capabilities that
-  help practitioners build, manage, or improve systems and processes in their domain.
+description: Gherkin is a technology or concept used in computing and information technology to address specific technical challenges. It provides capabilities that help practitioners build, manage, or improve systems and processes in their domain.
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
@@ -13,9 +11,9 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/gherkin/refs/heads/main/apis.yml
 specificationVersion: '0.19'
 tags:
+  - BDD
   - Gherkin
   - Testing
-  - BDD
 apis: []
 common: []
 maintainers:
