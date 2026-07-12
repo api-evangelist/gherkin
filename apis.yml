@@ -23,6 +23,8 @@ tags:
   - Cucumber
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/gherkin-domain-security.yml
   - type: Documentation
     url: https://cucumber.io/docs/gherkin/
   - type: Reference
@@ -31,6 +33,8 @@ common:
     url: https://cucumber.io/
   - type: Repository
     url: https://github.com/cucumber/gherkin
+  - url: https://cucumber.io/blog/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
