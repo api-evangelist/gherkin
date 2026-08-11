@@ -34,6 +34,17 @@ tags:
   - Cucumber
 apis: []
 common:
+  - type: IssueTracker
+    url: https://github.com/cucumber/gherkin/issues
+  - type: Releases
+    url: https://github.com/cucumber/gherkin/releases
+  - type: CodeOfConduct
+    url: https://github.com/cucumber/.github/blob/main/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/cucumber/gherkin/blob/main/CONTRIBUTING.md
+  - type: License
+    name: MIT
+    url: https://github.com/cucumber/gherkin/blob/main/LICENSE
   - type: DomainSecurity
     url: security/gherkin-domain-security.yml
   - type: Documentation
