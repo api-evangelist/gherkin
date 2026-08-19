@@ -25,7 +25,7 @@ modified: '2026-04-28'
 position: Consumer
 url: >-
   https://raw.githubusercontent.com/api-evangelist/gherkin/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 tags:
   - BDD
   - Gherkin
