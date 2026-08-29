@@ -7,6 +7,18 @@ description: >-
   and machine-parsable. Gherkin is the language used by Cucumber and many other
   BDD tools to define executable specifications and acceptance tests.
 type: Index
+deliveryModel:
+  model: self-hosted
+  license: MIT
+  open_source: true
+  commercial: false
+  callable_host: false
+  label: Self-hosted open source · you run it yourself
+  confidence: high
+  source:
+  - license
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
