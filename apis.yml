@@ -34,7 +34,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/gherkin.pn
 access: 3rd-Party
 created: '2025-01-01'
 modified: '2026-04-28'
-position: Consumer
+position: Consuming
 url: >-
   https://raw.githubusercontent.com/api-evangelist/gherkin/refs/heads/main/apis.yml
 specificationVersion: '0.23'
