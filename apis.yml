@@ -38,6 +38,9 @@ position: Consuming
 url: >-
   https://raw.githubusercontent.com/api-evangelist/gherkin/refs/heads/main/apis.yml
 specificationVersion: '0.23'
+x-docs-platform: docusaurus
+x-docs-platform-confidence: medium
+x-docs-platform-checked: 2026-10-03
 tags:
   - BDD
   - Gherkin
@@ -72,3 +75,4 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+kind: topic
